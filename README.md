@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9l25pef1srftxarl?svg=true)](https://ci.appveyor.com/project/Irinaries/appforadebitcard)
